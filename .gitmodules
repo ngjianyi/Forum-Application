@@ -1,0 +1,6 @@
+[submodule "Forum-frontend"]
+	path = Forum-frontend
+	url = https://github.com/ngjianyi/Forum-frontend.git
+[submodule "Forum-backend"]
+	path = Forum-backend
+	url = https://github.com/ngjianyi/Forum-backend.git
