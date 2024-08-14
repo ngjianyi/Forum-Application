@@ -4,6 +4,15 @@ Satoru is a forum application which allows users to create, read, update and del
 
 ### View deployed app at: [https://calm-paprenjak-39e501.netlify.app/](https://calm-paprenjak-39e501.netlify.app/)
 
+## Screenshots
+Home page
+
+<img src="screenshots/Homepage.png" alt="Home screen" width="1008" height="572">
+
+Post
+
+<img src="screenshots/Post.png" alt="Home screen" width="1008" height="572">
+
 ## To clone application
 ```bash
 git clone --recurse-submodules https://github.com/ngjianyi/Forum-Application.git
